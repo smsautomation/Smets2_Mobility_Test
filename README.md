@@ -1,1 +1,1 @@
-# mobility_api_autotest
+# smets2 mobility autotest
